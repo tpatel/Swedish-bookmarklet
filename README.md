@@ -6,9 +6,10 @@ A bookmark to point the user to a swedish dictionary for each word in a website.
 How to use it ?
 ---------------
 
-1. Drap and drop [this link](https://raw.github.com/tpatel/Swedish-bookmarklet/master/swedish-bookmarklet.js) in your bookmarks toolbar.
-2. Go to a swedish website, for example [KTH's website](https://www.kth.se/).
-3. Clik on your bookmark, and enjoy !
+1. Create a new bookmark in your bookmarks toolbar.
+2. Copy/paste the content of [the bookmarlet](https://raw.github.com/tpatel/Swedish-bookmarklet/master/swedish-bookmarklet.js) in the url field of your new bookmark.
+3. Go to a swedish website, for example [KTH's website](https://www.kth.se/).
+4. Clik on your bookmark, enjoy, and learn swedish !
 
 Description
 -----------
@@ -24,4 +25,5 @@ Used
 * [The People's Dictionary](http://folkets-lexikon.csc.kth.se/folkets/folkets.en.html)
 * [Vanilla-js](http://vanilla-js.com/)
 
-By [@thibpat](https://twitter.com/thibpat)
+<a href="https://twitter.com/thibpat" class="twitter-follow-button" data-show-count="false">Follow @thibpat</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
