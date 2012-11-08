@@ -25,5 +25,6 @@ Used
 * [The People's Dictionary](http://folkets-lexikon.csc.kth.se/folkets/folkets.en.html)
 * [Vanilla-js](http://vanilla-js.com/)
 
-<a href="https://twitter.com/thibpat" class="twitter-follow-button" data-show-count="false">Follow @thibpat</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+Follow
+------
+[@thibpat](https://twitter.com/thibpat)
