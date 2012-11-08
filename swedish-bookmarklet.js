@@ -1,0 +1,1 @@
+javascript:(function(){var%20a=document.getElementsByTagName('p');for(var%20i%20in%20a){a[i].innerHTML=a[i].innerHTML.replace(/<[^>]*>/g,'').replace(/([\S]*)/g,function(s){return'<a%20href="http://folkets-lexikon.csc.kth.se/folkets/folkets.en.html#lookup&'+s.replace(/[,.;!?]/g,'').toLowerCase()+'"%20target="blank">'+s+'</a>'})}})();
