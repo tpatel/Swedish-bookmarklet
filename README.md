@@ -28,3 +28,8 @@ Used
 Follow
 ------
 [@thibpat](https://twitter.com/thibpat)
+
+License
+-------
+
+Public domain
